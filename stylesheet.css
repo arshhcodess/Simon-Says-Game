@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color:darkkhaki;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 8px solid black;
+    margin: 2rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.pink{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.orange{
+    background-color: #f99b45;
+}
+.blue{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
+h2{
+    color: white;
+}
+.boxx{
+    display: inline-block;
+    justify-content: center;
+    height: 100px;
+    background-color: black;
+    width: 600px;
+    padding-top: 20px ;
+    font-size: 20px;
+    border-radius: 2.5%;
+    border: 10px solid white;
+}
+.forbody{
+    background-color:red;
+}
